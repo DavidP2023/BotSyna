@@ -1,0 +1,592 @@
+id,tipologia,operacion,direccion,barrio,ambientes,dormitorios,descripcion,apto_banco,precio,cod_zp,cod_lvi,link_interno,requisitos,imagen
+1,departamento,alquiler,Martin Garcia 712 Piso 7 Dpto C,san martin,3,2,,0,386000,57567523,5565868,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+2,departamento,alquiler,Martin Garcia 564 Piso 3º Dpto A,san martin,4,3,,0,475000,57567524,5565869,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+3,departamento,alquiler,Soldado Ruiz 938 Piso 2º Dpto. B,san martin,3,2,,0,376000,57567525,5565870,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+4,casa,venta,Rafael de Igarzabal 851,Parque Vélez Sársfield,16,7,SALOMON INMOBILIARIA OFRECE EN VENTA: Una imponente casa de 7 dor 1,1955000,187000,57840976,5560693,https://www.zonaprop.com.ar/propiedades/clasificado/veclcain-casa-de-categoria-de-7-dorm.-en-parque-velez-sarfield.-57840976.html?n_src=Listado&n_pg=2&n_pos=2,,
+8,departamento,alquiler,Antártida 3493 Dpto 1,matienzo,3,2,,0,418000,57567530,5565875,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+10,departamento,alquiler,Aaron Castellanos 2707,matienzo,3,2,,0,353000,57567532,5565877,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+12,departamento,alquiler,Antartida 3499 Dpto 3,matienzo,2,1,,0,299000,57567534,5565879,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+14,departamento,alquiler,Antártida 3497 Dpto 2,matienzo,4,3,,0,489000,57567536,5565881,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+19,departamento,alquiler,Belgrano 1269 Dpto.2,guemes,2,1,,0,279000,57567541,5565886,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+20,local,alquiler,De los Alemanes 4120,Los boulevares,2,,,0,633000,57567542,5565887,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+21,casa,alquiler,Luis Lagos García 931,URCA,8,4,"SALOMON INMOBILIARIA OFRECE EN ALQUILER UNA CASA UBICADA EN LUIS LAGOS GARCIA 931 , BARRIO URCA. CARACTERISTICAS: - 4 DORMITORIOS - LIVIN...URCA",1,1500000,58389364,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+22,oficina,alquiler,Caseros 651 P.B. Oficina E,centro,,,,0,378000,57567544,5565889,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+23,casa,alquiler,Uritorco 4124 esq Fournier 4124,Ameghino Sud,6,4,,0,950000,57567545,5565890,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+26,departamento,alquiler,Colombres 2048 Piso 1º  A Cuerpo II,San Martin,3,2,,0,401000,57567548,5565893,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+27,casa,alquiler,Aaron Castellano 2889,Matienzo,2,1,,0,451000,57567549,5565894,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+28,departamento,alquiler,Olmos 20 Piso 12 Dpto G,Centro,4,3,,0,431000,57567550,5565895,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+29,departamento,alquiler,M.T de Alvear 360 Piso 7 Dto A,Guemes,4,3,,0,483000,57567551,5565896,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+30,departamento,alquiler,Chubut 20 Piso 3 Dpto 69 Torre II,Alberdi,1,1,,0,208000,57567552,5565897,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+31,departamento,alquiler,Dean Funes 353 Piso 6 Dpto 609,Centro,2,1,,0,297000,57567553,5565898,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+32,casa,alquiler,Alberto J. Agostini 358,Don Bosco,4,3,,0,539000,57567554,5565899,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+33,oficina,alquiler,Caseros 651 PB Oficina D,Centro,,,,0,325000,57567555,5565900,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+34,casa,alquiler,Francisco J. Sotomayor 3780,San Felipe,4,3,,0,540000,57567556,5565901,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+36,departamento,alquiler,Corrientes 463 Piso 2 Dpto A,Centro,2,1,,0,336000,57567558,5565903,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+37,departamento,alquiler,Los Granaderos 2185 PB Dpto 2,San Martin,3,2,,0,403000,57567559,5565904,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+38,departamento,alquiler,Fructuoso Rivera 1030,Observatorio,3,2,,0,351000,57567560,5565905,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+39,departamento,alquiler,24 de Septiembre 2532 Piso 1 Dpto B,Alto General Paz,2,1,,0,314000,57567561,5565906,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+40,departamento,alquiler,Rosario de Santa Fe 1535 Piso 3 Dpto C,General Paz,2,1,,0,284000,57567562,5565907,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+41,departamento,alquiler,Av. 24 de Septiembre 2532,Yapeyú,4,1,SALOMÓN INMOBILIARIA te trae esta excelente oportunidad en alquiler Av. 24 de Septiembre 2532 – Barrio Alto General Paz Características d...Yapeyú,1,410000,58715849,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+42,departamento,alquiler,Olmos 20 Piso 9 Dpto G,Centro,5,4,,0,553000,57567564,5565909,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+43,departamento,alquiler,9 de Julio 1506 Piso 2º Dpto A,Alberdi,3,2,,0,394000,57567565,5565910,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+44,departamento,alquiler,"Pringles Nº 372  Planta Baja ""D""",General Paz,3,2,,0,399000,57567566,5565911,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+45,departamento,alquiler,La Rioja 2294 Piso 1 Dpto 13,Alberdi,3,2,"✨ ¡Oportunidad imperdible en Barrio Alberdi! ✨
+
+Salomón Inmobiliaria te presenta este cómodo y funcional monoambiente ideal para vivir o invertir 🏡💼
+📍 Calle La Rioja 2294 – Barrio Alberdi
+
+🔹 Características:
+
+🏢 Ubicado en 1° piso
+🌞 Ambiente amplio, cómodo y muy luminoso
+🍳 Cocina separada, equipada con anafe y termotanque
+🚿 Baño completo
+
+💰 Precio: $250.000
+📊 Ajuste trimestral según IPC
+🏢 Expensas: $30.000
+🧾 Impuestos súper bajos
+
+📲 Consultá requisitos por WhatsApp y coordiná tu visita
+🔥 ¡No dejes pasar esta excelente oportunidad!",0,250000,57567528,5565912,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,"Opción 1) Una garantía propietaria + un recibo de sueldo superior a $1.000.000
+Opción 2) Cuatro recibos de sueldo superiores a $1.000.000. Pueden ser menos recibos dependiendo los montos.
+No se aceptan garantías compradas ni monotributos, pero si se aceptan jubilaciones.",
+46,departamento,alquiler,9 de Julio 1506 Piso 1º Dpto C,Alberdi,3,2,,0,385000,57567568,5565913,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+47,local,alquiler,Hipolito Irigoyen 185 PH 2,Nueva Cordoba,,,,0,426000,57567569,5565914,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+48,local,alquiler,Los Granaderos 2185 Local 2,San Martin,,,,0,683000,57567570,5565915,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+49,departamento,alquiler,9 de Julio 1506 Piso 2 Dpto B,Alberdi,3,2,,0,375000,57567571,5565916,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+50,local,alquiler,Los Granaderos 2185 Local 1,San Martin,,,,0,320000,57567572,5565917,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+51,casa,alquiler,Mahatma Gandhi 167,Don Bosco,3,2,,0,575000,57567573,5565918,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+52,local,alquiler,Julio Argentino Roca 331,Guemes,,,,0,437000,57567574,5565919,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+53,casa,alquiler,Potrerillos 285 Casa 210,Lomas del Suquia,3,2,,0,462000,57567575,5565920,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+54,casa,alquiler,Jose Orzali 7165,Don Bosco,6,4,,0,775000,57567576,5565921,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+55,departamento,alquiler,Duarte Quiros Nº 1047 Piso 2º Dpto A,Alberdi,1,1,,0,198000,57567577,5565922,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+57,casa,alquiler,Hector Paniza 2668,San Rafael,3,2,,0,494000,57567579,5565924,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+58,departamento,alquiler,Hector Paniza 2668 (Dpto Int),San Rafael,3,2,,0,370000,57567580,5565925,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+59,casa,alquiler,Ascochinga 39,Mendiolaza,4,3,,0,709000,57567581,5565926,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+60,departamento,alquiler,Hector Paniza 2800,San Rafael,5,2,"🏡 SALOMÓN INMOBILIARIA PRESENTA
+✨ HERMOSA CASA EN ESQUINA – BARRIO SAN RAFAEL ✨
+
+📍 Ubicación: Calle Héctor Paniza 2800 – Barrio San Rafael
+
+Si buscás comodidad, buena ubicación y tranquilidad, ¡esta casa es para vos! 🙌
+
+🔹 Características destacadas:
+🏠 Casa en esquina, con excelente ventilación y luz natural
+🛋️ Living comedor amplio y funcional
+🍽️ Cocina separada, equipada con:
+✔️ Mesada
+✔️ Alacena
+✔️ Artefacto de cocina
+✔️ Campana extractora
+🛏️ Dos dormitorios amplios, muy luminosos y con calefacción
+🌿 Patio, ideal para disfrutar al aire libre
+🚗 Garage
+
+📌 Excelente entorno:
+🌳 Cercano a plazas
+🛣️ Rápido acceso a Ruta 20
+🛒 Próximo a comercios y servicios
+
+💰 Precio: $580.000
+📈 Ajuste trimestral según IPC
+💡 Impuestos bajos
+
+📲 Consultá requisitos por WhatsApp
+🔥 ¡No te la pierdas! Una oportunidad ideal para tu próximo hogar y vivir con tranquilidad 💙🏡",0,580000,57567582,5565927,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,"Opción 1) Una garantía propietaria + un recibo de sueldo superior a $1.000.000
+
+Opción 2) Cuatro recibos de sueldo superiores a $1.000.000. Pueden ser menos recibos dependiendo los montos.
+
+No se aceptan garantías compradas ni monotributos, pero si se aceptan jubilaciones.",
+62,casa,alquiler,Esposos Curie 2045,Maipu II,4,3,,0,732000,57567584,5565929,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+63,departamento,alquiler,Esposos Curie 2045 Dpto,Maipu II,5,4,,0,530000,57567585,5565930,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+64,casa,alquiler,Vera y Aragon 211,Marques de Sobremonte,6,4,,0,712000,57567586,5565931,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+65,departamento,alquiler,Belardinelli Piso 5 Dto 3º 1503 T 1,Ejercito Argentino,1,1,,0,203000,57567587,5565932,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+66,departamento,alquiler,Caseros 386 Piso 5 Dpto D,Centro,3,2,,0,360000,57567588,5565933,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+68,departamento,alquiler,Caseros 651 Piso 5 Dpto. G,Centro,3,2,,0,421000,57567590,5565935,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+70,departamento,alquiler,La Rioja 2687 PB Dpto. 2,Alberdi,3,2,,0,405000,57567592,5565937,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+71,casa,alquiler,Manuel Escorza 3738,Jose Ignacio Diaz 4ta,4,3,,0,538000,57567593,5565938,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+72,casa,alquiler,Augusto Vandor 4028 Casa 31,Rucci,4,3,,0,736000,57567594,5565939,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+73,casa,alquiler,Augusto Vandor 4028 Casa 29,Rucci,4,3,,0,535000,57567595,5565940,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+74,casa,alquiler,Pablo Mirizzi  951 PH 1,Parque Velez Sarsfield,7,4,,0,984000,57567596,5565941,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+75,casa,alquiler,Luis de Tejeda 158,Villa Allende,5,3,,0,842000,57567597,5565942,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+77,departamento,alquiler,Beccar Varela 638 PB Dpto. 3  Block D,Ipona,3,2,,0,394000,57567599,5565944,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+78,casa,alquiler,Gonzalez Albarracin 3953,Ameghino Norte,4,3,"¡No te lo pierdas! Ideal para vivir cómodo, bien ubicado y con todo al alcance de la mano ",0,526000,57567600,5487699,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+79,casa,alquiler,Pasaje San Pedro 2391 (Casa),Colon,3,2,,0,559000,57567601,5565946,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+80,departamento,alquiler,Caseros 1061 Piso 2 Dpto B,Alberdi,2,1,,0,282000,57567602,5565947,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+83,departamento,alquiler,Olmos 20 Piso 9  Dpto. B,Centro,1,1,,0,237000,57567605,5565950,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+84,casa,alquiler,Suecia 2909,Parque Velez Sarsfield,3,2,,0,460000,57567606,5565951,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+85,local,alquiler,Celso Barrios 2455 Local 7,San Carlos,,,,0,423000,57567607,5565952,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+86,departamento,alquiler,Dean Funes 681 Piso 1º Dpto G,Alberdi,3,2,,0,428000,57567608,5565953,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+87,casa,alquiler,Eduardo Wilde 4788,Liceo 1ra,5,3,,0,904000,57567609,5565954,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+89,departamento,alquiler,Dorrego 1363 Dpto.1,Juniors,2,1,,0,311000,57567611,5565956,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+90,departamento,alquiler,Dorrego 1363 Dpto 6,Juniors,3,2,,0,344000,57567612,5565957,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+91,departamento,alquiler,Dorrego 1363 Dpto 4,Juniors,6,3,"✨ SALOMÓN INMOBILIARIA te presenta una excelente oportunidad de alquiler 🏡 en Barrio Juniors
+
+📍 Ubicación: Calle Dorrego 1363, a metros de Av. General Paz y a solo 4 cuadras de Plaza Alberdi 🌳
+
+🏠 Características del departamento:
+
+🔹 Planta alta al frente
+🔹 Living-comedor amplio y luminoso 🛋️
+🔹 Cocina separada 🍽️
+🔹 3 dormitorios espaciosos 🛏️
+🔹 Balcón a la calle 🌇
+🔹 Excelente iluminación natural ☀️
+
+💰 Condiciones:
+
+💲 Precio: $580.000
+📈 Ajuste trimestral según IPC
+🏢 Expensas: $35.000
+🧾 Impuestos bajos
+
+📲 Consultá requisitos y coordiná tu visita por WhatsApp
+⚡ ¡No dejes pasar esta oportunidad! Tu próximo hogar te está esperando 🏡💫",0,580000,58690600,5565958,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,"Requisitos: 
+Opción 1) Una garantía propietaria + 1 recibo de sueldo superior a un millón de pesos . 
+Opcion 2) 4 recibos de sueldo superiores a un millón de pesos. Pueden ser 3 recibos de sueldo dependiendo los montos. 
+No se aceptan garantías compradas ni monotributos. Pero si se aceptan jubilaciones.",
+92,departamento,alquiler,Dorrego 1363 Dpto. 5,Juniors,3,2,,0,352000,57567614,5565959,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+93,departamento,alquiler,Dean Funes 681 Piso 1º Dpto C,Alberdi,3,2,,0,426000,57567615,5565960,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+94,departamento,alquiler,Dorrego 1363 PB Dpto 3,Juniors,2,1,,0,315000,57567616,5565961,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+95,departamento,alquiler,24 de Setiembre 819 Piso 1 Dpto. A,General Paz,4,3,,0,480000,57567617,5565962,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+96,casa,alquiler,Huascha 3074,San Pablo,5,3,,0,627000,57567618,5565963,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+98,casa,venta,Pablo Mirizzi 951 PH 2,Parque Velez Sarsfield,5,3,,1,93000,57567620,5565965,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+99,departamento,alquiler,Poeta Lugones 24 Piso 1º Dpto F,Nueva Cordoba,4,3,,0,408000,57567621,5565966,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+100,departamento,alquiler,San Jerónimo 3060 Planta Alta,San Vicente,2,1,,0,337000,57567622,5565967,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+101,departamento,alquiler,La Rioja 2128 Dpto 4,Alberdi,3,2,,0,384000,57567623,5565968,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+102,departamento,alquiler,Paraná 656 Piso 11,Nueva Cordoba,2,1,,0,268000,57567624,5565969,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+105,oficina,alquiler,"Centro, Córdoba",Centro,4,,¡Tu espacio ideal en pleno centro! Salomón Inmobiliaria te ofrece en alquiler una oficina perfecta para desarrollar tu emprendimiento o em...Centro,1,280000,58857464,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+108,casa,alquiler,Azul 2936,Jose Hernandez,3,2,,0,433000,57567630,5565975,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+109,departamento,alquiler,9 de Julio 1506 Piso 2 Dpto C,Alberdi,2,1,,0,282000,57567631,5565976,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+110,departamento,alquiler,24 de Setiembre 819 Piso 3 Dpto. A,General Paz,2,1,,0,311000,57567632,5565977,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+111,departamento,alquiler,San José de Calasanz 381,Paso de los Andes,4,1,"¡Oportunidad en Barrio Alberdi! Departamento en alquiler Salomón Inmobiliaria te presenta este cómodo y luminoso depto en planta baja, ubi...Paso de los Andes",1,470000,58745905,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+112,casa,alquiler,Húsares 2036,Crisol Norte,3,2,,0,504000,57567634,5565979,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+113,departamento,alquiler,Colombres 2355 Piso 1º Dpto 5,San Martin,5,4,,0,609000,57567635,5565980,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+114,casa,alquiler,Naciones Unidas 843,Parque Velez Sarsfield,8,4,,0,1250000,57567636,5565981,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+117,departamento,alquiler,Purmamarca 1137 Dpto 1,Villa El Libertador,2,1,,0,341000,57567639,5565984,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+119,departamento,alquiler,Purmamarca 1137 Dpto 2,Villa El Libertador,2,1,,0,271000,57567641,5565986,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+120,casa,alquiler,Lamartine 2016,Colinas V. Sarsfield,4,3,,0,569000,57567642,5565987,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+121,departamento,alquiler,Suarez de Figueroa 392 Dto.1,Marques de Sobremonte,3,2,,0,340000,57567643,5565988,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+122,departamento,alquiler,Tambo Nuevo 185 Piso 2 Dpto D Torre C,San Martin,3,2,,0,417000,57567644,5565989,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+123,casa,venta,Francisco Paula Rivero 91,Residencial Los robles,7,4,,0,116000,57567645,5565990,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+124,departamento,alquiler,Francisco N de Laprida 66,Nueva Córdoba,4,1,"SALOMÓN INMOBILIARIA te ofrece en alquiler un excelente departamento en Nueva Córdoba, una de las zonas más buscadas de la ciudad Ubicació...Nueva Córdoba",1,580000,58691934,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+125,departamento,alquiler,Colon 767 Piso 9º Dpto D,Centro,3,2,,0,406000,57567647,5565992,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+126,departamento,alquiler,Independencia 1120  PB Dpto B,Nueva Cordoba,3,2,,0,409000,57567648,5565993,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+127,departamento,alquiler,Chubut 20 Piso 1º Dpto 80,Alberdi,2,1,,0,260000,57567649,5565994,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+128,departamento,alquiler,Pje. San Agustin 389 Piso 2 Dpto.5,Alberdi,2,1,,0,286000,57567650,5565995,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+130,casa,venta,Francisco Gurruchaga 1139,Residencial Oeste,2,1,,0,27000,57567652,5565997,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+131,departamento,alquiler,Luis María Drago 490 Dpto 2,San Fernando,2,1,,0,311000,57567653,5565998,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+132,departamento,alquiler,Luis María Drago 488 Dpto 1,San Fernando,3,2,,0,390000,57567654,5565999,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+133,departamento,alquiler,Zapiola 295 Piso 2º Dpto. C,San Martin,3,2,,0,411000,57567655,5566000,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+134,departamento,alquiler,Los Granaderos 2185 Dpto 2,San Martin,2,1,,0,344000,57567656,5566001,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+135,departamento,alquiler,Soldado Ruiz 1030 Piso 1 Dpto 6,San Martin,4,3,,0,424000,57567657,5566002,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+136,casa,venta,Pedro de Olmedo 1099,Marques de Sobremonte,4,3,,1,59000,57567658,5566003,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+137,casa,venta,Armenia 2050 Dpto 4,Pueyrredon,7,4,,1,117000,57567659,5566004,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+138,departamento,alquiler,Ramon Mestre 2330 Dpto 5,Bajo Galan,4,3,,0,493000,57567660,5566005,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+139,local,alquiler,Julio Argentino Roca 331,Guemes,,,,0,604000,57567661,5566006,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+140,departamento,alquiler,Mariano Fragueiro 1455 Dpto 11,Alta Cordoba,2,1,,0,341000,57567662,5566007,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+141,casa,venta,Ministalalo 1410,Talleres Oeste,6,4,,0,98000,57567663,5566008,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+142,local,alquiler,Belgrano 1535 Local 1,Guemes,,,,0,542000,57567664,5566009,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+143,casa,venta,Turrado juarez 1560,Guemes,7,4,,1,80000,57567665,5566010,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+144,departamento,alquiler,Armenia 2050 Dpto 5,Pueyrredon,3,2,,0,420000,57567666,5566011,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+147,casa,venta,Fournier 2555 esq Esmeralda,Ameghino Sur,4,3,,0,51000,57567669,5566014,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+148,departamento,alquiler,Colombres 2048 Piso 2 Dpto B Cpo II,San Martin,3,2,,0,358000,57567670,5566015,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+150,departamento,alquiler,Fructuoso Rivera 1030 PB Dpto 1,Observatorio,2,1,,0,322000,57567672,5566017,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+151,departamento,alquiler,Fructuoso Rivera 1030 Piso 1 Dpto 1,Observatorio,2,1,,0,319000,57567673,5566018,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+152,departamento,alquiler,Fructuoso Rivera 1030 Piso 2 Dpto 1,Observatorio,2,1,,0,335000,57567674,5566019,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+153,departamento,alquiler,Fructuoso Rivera 1030 P.B.Dpto 2,Observatorio,2,1,,0,301000,57567675,5566020,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+154,departamento,alquiler,Fructuoso Rivera 1030 Piso 1 Dpto 2,Observatorio,2,1,,0,305000,57567676,5566021,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+155,departamento,alquiler,Fructuoso Rivera 1030 Piso 2 Dpto 2,Observatorio,3,2,,0,355000,57567677,5566022,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+156,departamento,alquiler,Lino Spilimbergo 6058,Los Boulevares,2,1,,0,267000,57567678,5566023,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+157,terreno,venta,Alto del Tala 5646 (terreno),Santa Isabel 2da,1,0,OPORTUNIDAD!! CERCANO A UNIVERIDAD CATOLICA!!,1,76000,57567679,5394038,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+158,local,alquiler,Alto del Tala 5646 Local 1,Santa Isabel 2da,1,0,OPORTUNIDAD!! CERCANO A UNIVERIDAD CATOLICA!!,0,560000,57567680,5394038,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+159,local,alquiler,Alto del Tala 5650 Local 2,Santa Isabel 2da,1,0,OPORTUNIDAD!! CERCANO A UNIVERIDAD CATOLICA!!,0,396000,57567681,5394038,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+160,casa,venta,Arturo M. Bas 2832,Parque Velez Sarsfield,4,3,,0,57000,57567682,5566027,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+161,departamento,alquiler,9 de Julio 1506 Piso 1º Dpto A,Alberdi,2,1,,0,283000,57567683,5566028,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+162,departamento,alquiler,9 de Julio 1506 Piso 4 Dpto. C,Alberdi,3,2,,0,397000,57567684,5566029,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+167,casa,venta,Castex 174,Alberdi,5,3,,1,92000,57567689,5566034,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+168,casa,venta,Gregorio Gavier 4149,Villa Marta,3,2,,1,37000,57567690,5566035,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+170,local,alquiler,Los Granaderos 2032 Local 1,Zumaran,,,,0,318000,57567692,5566037,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+171,local,alquiler,Los Granaderos 2032 Local 2,Zumaran,,,,0,482000,57567693,5566038,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+172,departamento,alquiler,Los Granaderos 2032 Dpto 1,Zumaran,3,2,,0,386000,57567694,5566039,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+173,departamento,alquiler,Los Granaderos 2032 Dpto 2,Zumaran,3,2,,0,367000,57567695,5566040,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+174,departamento,alquiler,Los Granaderos 2032 Dpto 3,Zumaran,3,2,,0,373000,57567696,5566041,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+175,departamento,alquiler,Los Granaderos 2032 Dpto 4,Zumaran,3,2,,0,368000,57567697,5566042,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+176,departamento,alquiler,Los Granaderos 2032 Dpto 5,Zumaran,3,2,,0,427000,57567698,5566043,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+177,departamento,alquiler,Los Granaderos 2032 Dpto 6,Zumaran,4,3,,0,427000,57567699,5566044,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+178,departamento,alquiler,Los Granaderos 2032 Dpto 7,Zumaran,3,2,,0,391000,57567700,5566045,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+179,departamento,alquiler,Los Granaderos 2032 Dpto 8,Zumaran,2,1,,0,296000,57567701,5566046,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+180,departamento,alquiler,Los Granaderos 2032 Dpto 9,Zumaran,2,1,,0,277000,57567702,5566047,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+181,departamento,alquiler,Los Granaderos 2032 Dpto 10,Zumaran,2,1,,0,328000,57567703,5566048,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+182,local,alquiler,Donato Alvarez 7323 Local 1 y 2,Arguello,,,,0,454000,57567704,5566049,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+183,departamento,alquiler,Lulio 2914 Piso 1º Dpto H,Zumaran,2,1,,0,318000,57567705,5566050,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+184,local,alquiler,Donato Alvarez 7323 Local 3,Arguello,,,,0,432000,57567706,5566051,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+185,departamento,alquiler,Donato Alvarez 7323 P.B.Dpto 1,Arguello,3,2,,0,381000,57567707,5566052,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+186,departamento,alquiler,Teniente General Donato Alvarez 7323,Villa 9 de Julio,4,1,"SALOMON INMOBILIARIA OFRECE EN ALQUILER UN DEPTO UBICADO EN AV DONATO ALVAREZ 7323 , BARRIO ARGUELLO. CARACTERISTICAS : * LIVING COMEDOR ...Villa 9 de Julio",1,310000,57934331,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+187,departamento,alquiler,Donato Alvarez 7323 P.A. Dpto 2,Arguello,1,1,,0,239000,57567709,5566054,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+188,departamento,alquiler,Donato Alvarez 7323 P.A.Dpto 4,Arguello,1,1,,0,253000,57567710,5566055,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+189,departamento,alquiler,Francisco Vidal 7373 Dpto 1,Arguello,2,1,,0,275000,57567711,5566056,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+190,departamento,alquiler,Francisco Vidal 7373,Villa 9 de Julio,4,1,"¡Oportunidad de alquiler en Barrio Argüello! Salomón Inmobiliaria te ofrece este cómodo departamento ubicado en Av. Francisco Vidal 7373, ...Villa 9 de Julio",1,380000,58667550,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+191,departamento,alquiler,Francisco Vidal 7373,Villa 9 de Julio,2,1,tégica y de fácil acceso. Características del inmueble: ️ Ambiente amplio y luminoso Cocina separada y equipada con artefacto de cocina y ...Villa 9 de Julio,1,320000,58690491,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+192,departamento,alquiler,Francisco Vidal 7373 Dpto 4,Arguello,3,2,,0,385000,57567714,5566059,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+193,departamento,alquiler,Francisco Vidal 7373 Dpto 5,Arguello,2,1,,0,343000,57567715,5566060,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+194,departamento,alquiler,Francisco Vidal 7373 Dpto 6,Arguello,2,1,,0,319000,57567716,5566061,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+195,departamento,alquiler,Pasaje Mercedes 824 Dpto 1,Alberdi,3,2,,0,347000,57567717,5566062,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+196,departamento,alquiler,Pasaje Mercedes 824 Dpto 2,Alberdi,3,2,,0,345000,57567718,5566063,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+197,departamento,alquiler,Pasaje Mercedes 824 Dpto 3,Alberdi,4,3,,0,510000,57567719,5566064,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+198,departamento,alquiler,Pasaje Mercedes 824 Dpto 4,Alberdi,4,3,,0,480000,57567720,5566065,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+199,departamento,alquiler,Turrado Juarez 1478 P.B.Dpto A,Guemes,3,2,,0,375000,57567721,5566066,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+200,departamento,alquiler,Turrado Juarez 1478 P.B.Dpto C,Guemes,2,1,,0,343000,57567722,5566067,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+201,departamento,alquiler,Turrado Juarez 1478 P.B.Dpto D,Guemes,3,2,,0,371000,57567723,5566068,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+202,departamento,alquiler,Turrado Juarez 1478 P.B. Dpto E,Guemes,1,1,,0,214000,57567724,5566069,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+203,departamento,alquiler,Turrado Juarez 1478 P.B.Dpto F,Guemes,3,2,,0,437000,57567725,5566070,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+204,departamento,alquiler,Turrado Juarez 1478 Piso 1 Dpto A,Guemes,3,2,,0,343000,57567726,5566071,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+205,departamento,alquiler,Turrado Juarez 1478 Piso 1 Dpto B,Guemes,4,3,,0,488000,57567727,5566072,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+206,departamento,alquiler,Turrado Juárez 1478,Güemes,4,1,"SALOMÓN INMOBILIARIA OFRECE EN ALQUILER un departamento ubicado en Turrado Juárez 1478, Barrio Güemes, ¡a pasos de Ciudad Universitaria! C...Güemes",1,350000,58550098,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+207,departamento,alquiler,Turrado Juarez 1478 Piso 1 Dpto D,Guemes,2,1,,0,273000,57567729,5566074,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+208,departamento,alquiler,Turrado Juarez 1478 Piso 1 Dpto E,Guemes,4,3,,0,487000,57567730,5566075,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+209,departamento,alquiler,Turrado Juarez 1478 Piso 1 Dpto F,Guemes,1,1,,0,213000,57567731,5566076,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+210,departamento,alquiler,Turrado Juárez 1478 Piso 2 Dpto A,Guemes,2,1,,0,330000,57567732,5566077,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+211,departamento,alquiler,Turrado Juarez 1478 Piso 2 Dpto B,Guemes,2,1,,0,310000,57567733,5566078,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+212,departamento,alquiler,Turrado Juarez 1478 Piso 2 Dpto C,Guemes,2,1,,0,286000,57567734,5566079,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+213,departamento,alquiler,Turrado Juarez 1478 Piso 2 Dpto D,Guemes,4,3,,0,521000,57567735,5566080,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+214,departamento,alquiler,Turrado Juarez 1478 Piso 2 Dpto E,Guemes,3,2,,0,339000,57567736,5566081,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+215,departamento,alquiler,Turrado Juarez 1478 Piso 2 Dpto F,Guemes,2,1,,0,268000,57567737,5566082,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+216,local,alquiler,Luis de Tejeda 4208 Local 1,Cerro de las Rosas,,,,0,600000,57567738,5566083,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+217,local,venta,Luis de Tejeda 4208 Local 2,Cerro de las Rosas,,,,1,54000,57567739,5566084,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+218,local,venta,Luis de Tejeda 4208 Local 3,Cerro de las Rosas,,,,0,46000,57567740,5566085,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+219,departamento,alquiler,Capital Federal 941 P.B.Dpto 1,Observatorio,3,2,,0,429000,57567741,5566086,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+220,departamento,alquiler,Capital Federal 941 P.B.Dpto 2,Observatorio,2,1,,0,264000,57567742,5566087,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+221,departamento,alquiler,Capital Federal 941 P.A. Dpto 1,Observatorio,5,4,,0,496000,57567743,5566088,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+222,local,venta,Velez Sarsfield 674 P.A,Guemes,,,,1,68000,57567744,5566089,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+223,local,venta,Velez Sarsfield 674,Nueva Cordoba,,,,0,54000,57567745,5566090,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+224,departamento,alquiler,Duarte Quiros 3742 Dpto 1,San Salvador,2,1,,0,288000,57567746,5566091,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+225,departamento,alquiler,Duarte Quiros 3742 Dpto 2,San Salvador,3,2,,0,335000,57567747,5566092,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+226,local,venta,Ramirez de Velazco 770,Ducasse,,,,0,97000,57567748,5566093,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+228,casa,venta,Pedro de Angelis 1973,Cerro de las Rosas,5,3,,1,59000,57567750,5566095,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+229,departamento,alquiler,Martin Pinzon 2337 Piso 3 Dpto A,San Martin,2,1,,0,299000,57567751,5566096,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+230,departamento,alquiler,Martin Pinzon 2337 Piso 3 Dto. B,San Martin,3,2,,0,358000,57567752,5566097,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+232,cochera,alquiler,Caseros 651 Cochera 10,Centro,,,,0,93000,57567754,5566099,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+233,departamento,alquiler,Caseros 651 Piso 8 Dpto G,Centro,2,1,,0,278000,57567755,5566100,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+235,local,venta,Santa Ana 2716 P.B. Local 1 y 2,Alto Alberdi,,,,0,59000,57567757,5566102,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+236,departamento,alquiler,Santa Ana 2716 P.B. Dpto 1,Alto Alberdi,1,1,,0,239000,57567758,5566103,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+237,departamento,alquiler,Santa Ana 2716 Piso 1º Dpto 2,Alto Alberdi,5,4,,0,616000,57567759,5566104,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+238,departamento,alquiler,Santa Ana 2716 Piso 1 Dpto 3,Alto Alberdi,3,2,,0,381000,57567760,5566105,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+239,departamento,alquiler,Santa Ana 2716 Piso 2º Dpto 4,Alto Alberdi,1,1,,0,195000,57567761,5566106,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+240,departamento,alquiler,Rio Hondo 4160 P.A Dpto 1,Parque Atlantica,3,2,,0,347000,57567762,5566107,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+241,departamento,alquiler,Rio Hondo 4160 PB Dpto 3,Parque Atlantica,3,2,,0,380000,57567763,5566108,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+242,departamento,alquiler,La Banda 3961 PB Dpto 3,Parque Atlantica,2,1,,0,256000,57567764,5566109,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+243,departamento,alquiler,Rio Hondo 4160 PA Dpto 2,Parque Atlantica,2,1,,0,344000,57567765,5566110,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+244,departamento,alquiler,La Banda 3959/63,Parque Atlantica,3,2,,0,358000,57567766,5566111,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+245,casa,venta,Manuel Pizarro 4340,Villa Marta,6,4,,1,96000,57567767,5566112,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+247,departamento,alquiler,Colon 1160 Piso 5 Dpto D,Alberdi,2,1,,0,330000,57567769,5566114,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+248,departamento,alquiler,Colon 251 Piso 2 Dpto A,centro,3,2,,0,338000,57567770,5566115,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+249,departamento,alquiler,Los Granaderos 3144 Piso 1 Dpto 3,Alto Verde,3,2,,0,406000,57567771,5566116,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+250,departamento,alquiler,Campillo 988 Piso 2 Dpto D,Cofico,3,2,,0,339000,57567772,5566117,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+251,casa,alquiler,Rafael de Igarzabal 851,Parque Vélez Sársfield,16,7,"SALOMON INMOBILIARIA OFRECE EN ALQUILER: Una imponente casa de 7 dormitorios, ideal para grandes familias que buscan amplitud y confort. U...Parque Vélez Sársfield",1,1950000,58265302,5578825,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+252,departamento,alquiler,Curaquen Nº 5915 Pje 4 Dpto 1,Arguello,2,1,,0,287000,57567774,5566119,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+253,departamento,alquiler,Pasaje 4 Nº 5915 Dpto 2,Arguello,4,3,,0,416000,57567775,5566120,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+254,departamento,alquiler,Pasaje 4 Dpto 3,Arguello,3,2,,0,414000,57567776,5566121,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+255,local,venta,Fructuoso Rivera 95 Local 7,Nueva Cordoba,,,,1,43000,57567777,5566122,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+256,departamento,alquiler,Obispo Trejo 949 Piso 2 Dpto. E,Nueva Cordoba,3,2,,0,396000,57567778,5566123,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+258,local,venta,Obispo Trejo 949 Local 6,Nueva Cordoba,,,,1,59000,57567780,5566125,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+259,departamento,venta,Chubut 20 Piso 2do. Dpto 86,Alberdi,3,2,,0,41000,57567781,5566126,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+260,departamento,venta,Suipacha 1994 Dpto 1,Pueyrredon,3,2,,0,39000,57567782,5566127,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+261,departamento,venta,Suipacha 1994 Dpto 2,Pueyrredon,2,1,,0,31000,57567783,5566128,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+262,departamento,venta,Zapiola 197,San Martin,1,1,,1,20000,57567784,5566129,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+263,departamento,venta,Tomas Guido 901,San Martin,4,3,,0,47000,57567785,5566130,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+264,departamento,venta,José Ignacio Thames 5237 Planta Baja,Dean Funes,2,1,,1,26000,57567786,5566131,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+265,casa,venta,Lascano Colodrero 2554 PH 4,Poeta Lugones,5,3,,1,87000,57567787,5566132,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+266,casa,venta,Lascano Colodrero 2554 PH 1,Poeta Lugones,5,3,,0,90000,57567788,5566133,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+267,departamento,venta,José Ignacio Thames 5237 Planta Alta,Dean Funes,3,2,,1,37000,57567789,5566134,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+268,casa,venta,Baudillio Vazquez 3836,Puente Blanco,6,4,,1,98000,57567790,5566135,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+269,departamento,venta,Tres Arroyos 2882 Dpto A,Jardin del Pilar,2,1,,1,32000,57567791,5566136,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+270,departamento,venta,Tres Arroyos 2882 Dpto B,Jardin del Pilar,1,1,,1,19000,57567792,5566137,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+271,departamento,venta,Rincon 1814 Planta Baja Dpto 2,Pueyrredon,2,1,PARA MAS INFORMACIÓN AL WHATSAPP . NO TE LO PIERDAS!!!,1,43000,57567793,5396630,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+272,departamento,venta,Caseros 1964 Piso 2 Dpto A,Alberdi,4,3,,1,45000,57567794,5566139,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+273,departamento,venta,Pje Alberro 1554 Piso 2do.Dto 15,Paso de los Andes,3,2,,0,40000,57567795,5566140,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+274,departamento,venta,Quizquizacate 552 Dpto 1,San Martin,3,2,,1,38000,57567796,5566141,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+275,departamento,venta,Quizquizacate 554 Dpto 2,San Martin,3,2,,1,40000,57567797,5566142,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+276,departamento,venta,Quisquizacate 554 Dpto 3,San Martin,3,2,,1,34000,57567798,5566143,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+277,departamento,venta,Quisquizacate 554 Dpto 4,San Martin,1,1,,1,19000,57567799,5566144,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+278,departamento,venta,Maipu 18 Piso 7 Dpto D,centro,3,2,,1,37000,57567800,5566145,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+279,departamento,venta,Maipu 18 Piso 5 Dpto B,centro,3,2,,0,40000,57567801,5566146,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+280,casa,venta,Manuel Gutierrez 4497,Villa Marta,4,3,,0,70000,57567802,5566147,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+281,oficina,venta,Rosario de Santa Fe 231 Piso 8 Oficina 7,centro,0,0,PARA CONSULTAS AL WHATSAPP . NO TE LA PIERDAS!!!,1,61000,57567803,5354573,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+285,departamento,venta,Montevideo 207 Piso 4 Dpto C,Nueva Cordoba,1,1,,1,24000,57567807,5566152,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+286,departamento,venta,Parana 670 Piso 9 Dpto A,Nueva Cordoba,3,2,,0,35000,57567808,5566153,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+287,casa,venta,Soldado Ruiz 1682,San Martin,4,3,,1,58000,57567809,5566154,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+288,casa,venta,Soldado Ruiz 1676,San Martin,7,4,,1,100000,57567810,5566155,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+291,local,venta,Hipólito Yrigoyen 185 PH 4,Nueva Cordoba,,,,1,114000,57567813,5566158,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+292,local,venta,Hipólito Yrigoyen 185 PH 3,Nueva Cordoba,,,,0,70000,57567814,5566159,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+293,local,venta,Hipólito Yrigoyen 185 PH 1,Nueva Cordoba,,,,0,46000,57567815,5566160,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+295,departamento,venta,Caseros 286 Piso 10 Dpto B,Centro,3,2,,1,43000,57567817,5566162,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+296,departamento,venta,Chacabuco 23 Piso 7 Dpto A,Centro,1,1,,1,22000,57567818,5566163,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+298,departamento,venta,Mariano Fragueiro 329 Piso 3º Dpto B,Centro,2,1,,0,30000,57567820,5566165,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+300,departamento,venta,Colon 1153 Piso 8 Dpto D Torre C,Alberdi,1,1,,1,21000,57567822,5566167,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+302,departamento,venta,Colon 1153 Piso 2º Dpto C Torre C,Alberdi,2,1,,1,31000,57567824,5566169,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+303,departamento,venta,Balcarce 541 Piso 11º Dpto C,Nueva Cordoba,5,4,,1,46000,57567825,5566170,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+306,departamento,venta,Colon 1160 Piso 4 Dpto D,Alberdi,3,2,,1,41000,57567828,5566173,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+307,local,venta,Caseros 694,Alberdi,,,,1,63000,57567829,5566174,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+308,departamento,venta,Colon 1160 Piso 5 Dpto B,Alberdi,2,1,,1,27000,57567830,5566175,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+309,departamento,venta,Colon 1160 Piso 4º Dpto B,Alberdi,3,2,,1,38000,57567831,5566176,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+310,departamento,venta,Colon 1151 Piso 11 Dpto B Torre B,Alberdi,3,2,,1,39000,57567832,5566177,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+311,departamento,venta,Miguel Caxaraville (casa) 718,Lamadrid,1,1,,1,24000,57567833,5566178,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+312,departamento,venta,Miguel Caxaraville 718 Dpto 1,Lamadrid,3,2,,1,41000,57567834,5566179,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+313,departamento,venta,Miguel Caxaraville 718 Dpto 2,Lamadrid,3,2,,1,42000,57567835,5566180,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+315,departamento,venta,Colon 1153 Piso 13 Dpto B Torre C,Alberdi,3,2,,1,32000,57567837,5566182,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+317,cochera,alquiler,Colon 1155 Subsuelo Coch 10,Alberdi,,,,0,102000,57567839,5566184,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+318,departamento,venta,Pedro del Castillo 1065 Dpto 3,Ferrer,5,4,,1,50000,57567840,5566185,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+320,departamento,venta,Colon 1151 Piso 10 Dpto D Torre B,Alberdi,2,1,,1,29000,57567842,5566187,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+322,departamento,venta,9 de Julio 687 Piso 9 Dpto D,Centro,3,2,,1,42000,57567844,5566189,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+324,departamento,venta,San Lorenzo 162 Piso 5 Dpto B,Nueva Cordoba,3,2,,1,33000,57567846,5566191,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+327,departamento,venta,Chubut 20 Piso 1 Dpto 20,Alberdi,3,2,,0,38000,57567849,5566194,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+328,departamento,venta,Independencia 1470 Piso 2 Dpto B,Nueva Cordoba,3,2,,0,36000,57567850,5566195,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+333,departamento,venta,Independencia 1470 Piso 8 Dpto D,Nueva Cordoba,2,1,,0,27000,57567855,5566200,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+334,local,venta,Sabatini 3771 Local D,Villa Argentina,,,,1,93000,57567856,5566201,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+335,local,venta,Sabatini 3771 Local B,Villa Argentina,,,,1,107000,57567857,5566202,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+336,local,venta,Sabatini 3771 Local 3,Villa Argentina,,,,0,62000,57567858,5566203,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+337,departamento,venta,Colon 1153 Piso 3 Dpto A Torre C,Alberdi,3,2,,1,41000,57567859,5566204,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+338,departamento,venta,Beccar Varela 638 Planta Alta Dpto 6,Ipona,3,2,,0,43000,57567860,5566205,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+339,casa,venta,Argandoña 3288,San Vicente,4,2,PARA MAS INFORMACION AL WHATSAPP. NO TE LO PIERDAS!!!,0,38000,57567861,5517939,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+342,departamento,venta,Santa Cruz 980 Dpto.3,Observatorio,1,1,,1,20000,57567864,5566209,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+344,departamento,venta,Colon 1153 Piso 6 Dpto D Torre C,Alberdi,3,2,,1,36000,57567866,5566211,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+345,local,alquiler,Sabatini 3771 Local B,Villa Argentina,3,,"✨ ¡Excelente oportunidad comercial sobre Av. Sabattini! ✨
+
+Salomón Inmobiliaria te ofrece en alquiler un local ideal para potenciar tu negocio 📈, ubicado en una zona de alto tránsito 🚗🚶‍♂️:
+📍 Av. Sabattini 3771 – Local B, Barrio Villa Argentina
+
+🔹 Características destacadas:
+
+📐 Superficie de 85 m²
+🪟 Ambientes amplios, luminosos y funcionales
+🚻 Baño instalado
+🛣️ Ubicación estratégica sobre plena avenida
+
+🔹 Servicios:
+
+⚡ Energía eléctrica
+
+💰 Precio: $700.000
+📊 Ajuste cuatrimestral según IPC
+🧾 Impuestos bajos
+📄 Contrato por 2 años
+
+📲 Consultá requisitos y coordiná una visita por WhatsApp
+¡No dejes pasar esta oportunidad para instalar tu negocio en una ubicación clave! 🚀",0,700000,56639783,5566212,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,"Opción 1) Una garantía propietaria + un recibo de sueldo superior a $1.000.000
+
+Opción 2) Cuatro recibos de sueldo superiores a $1.000.000. Pueden ser menos recibos dependiendo los montos.
+
+No se aceptan garantías compradas ni monotributos, pero si se aceptan jubilaciones.",
+347,departamento,alquiler,Santa Rosa 1368 Piso 2 Dpto 20,Alberdi,4,1,"🏡✨ ¡OPORTUNIDAD EN ALQUILER – BARRIO ALBERDI! ✨🏡
+
+Salomón Inmobiliaria ofrece en alquiler un hermoso departamento ubicado en 📍 Santa Rosa 1368, Barrio Alberdi, a metros de todo lo que necesitás.
+
+📌 Ubicación estratégica:
+🚔 A una cuadra de la Central de Policía
+🛣️ A una cuadra de Avenida Colón
+🚌 Gran variedad de líneas de colectivos para una excelente conectividad
+
+🏢 Características del departamento:
+
+✔️ Piso 2
+✔️ Cocina comedor súper amplia 🍽️
+✔️ Incluye artefacto de cocina + extractor
+✔️ Espacio para lavarropas 🧺
+✔️ Calefactor 🔥
+✔️ Baño completo 🛁
+✔️ 1 dormitorio amplio con placard 👕👚
+
+💰 Precio: $490.000
+📈 Ajuste trimestral según IPC
+💵 Expensas: $61.000
+🧾 Impuestos muy bajos
+
+📲 Consultá requisitos y coordiná tu visita por WhatsApp.
+
+✨ ¡No dejes pasar esta oportunidad! Ideal para quienes buscan comodidad, ubicación y buena conexión en Barrio Alberdi. ✨",0,490000,58487981,5566214,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,"Opción 1) Una garantía propietaria + un recibo de sueldo superior a $1.000.000
+Opción 2) Cuatro recibos de sueldo superiores a $1.000.000. Pueden ser menos recibos dependiendo los montos.
+No se aceptan garantías compradas ni monotributos, pero si se aceptan jubilaciones.",
+348,departamento,venta,Mejico 614/18 Planta Baja Dto 2,Patria,2,1,,1,29000,57567870,5566215,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+349,departamento,venta,Coronel Olmedo 296 Piso 1º Dpto I,Alberdi,2,1,,0,30000,57567871,5566216,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+350,departamento,alquiler,Avenida Colón 1153,Alberdi,4,1,"SALOMÓN INMOBILIARIA ofrece en alquiler un hermoso departamento ubicado en Av. Colón 1153. Ideal para quienes buscan comodidad, luz y una e...Alberdi",1,485000,58797911,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+353,departamento,venta,Ituzaingo 628 Piso 3 Dpto C,Nueva Cordoba,2,1,,0,33000,57567875,5566220,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+357,departamento,venta,San Jose de Calazans 62 Piso 5 Dpto D,Alberdi,2,1,,1,29000,57567879,5566224,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+358,departamento,venta,Duarte Quiros 835 Piso 3 Dpto B,Alberdi,2,1,,1,34000,57567880,5566225,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+361,departamento,venta,Colon 1155 Piso 3 Dpto B Torre A,Alberdi,2,1,,1,34000,57567883,5566228,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+362,cochera,alquiler,Colon 1155 Subsuelo Cochera 49,Alberdi,,,,0,96000,57567884,5566229,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+363,cochera,alquiler,Colon 1155 Subsuelo Coch 1,Alberdi,,,,0,102000,57567885,5566230,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+365,departamento,venta,Pedro del Castillo 1065 Dpto 1,Ferrer,1,1,,0,23000,57567887,5566232,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+366,departamento,venta,Pedro del Castillo 1065 Dpto 2,Ferrer,3,2,,0,37000,57567888,5566233,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+368,cochera,alquiler,Colon 1155 Subsuelo Coch 4,Alberdi,,,"🏢 Salomón Inmobiliaria te ofrece esta práctica cochera ubicada en 📍 Av. Colón 1155, Barrio Alberdi.
+
+🔹 Características destacadas:
+✔️ Ubicada en subsuelo 🅿️
+✔️ Acceso con portón automático 🚪⚙️
+✔️ Ingreso con llave magnética 🔑
+✔️ Amplios espacios para maniobrar cómodamente 🔄
+✔️ Sobre Av. Colón, zona estratégica 📍
+
+💰 Precio: $90.000
+📈 Ajuste trimestral según IPC
+💸 Expensas: $19.190
+✔️ Impuestos súper bajos
+
+📲 Consultá requisitos por WhatsApp
+
+🔥 ¡No dejes pasar esta oportunidad y asegurá tu lugar hoy mismo!",0,90000,57567890,5566235,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,"Demostración de ingresos del titular. 
+Se firma un contrato por 2 años.",
+369,departamento,venta,Colon 1330 Piso 3 Dpto. C,Alberdi,1,1,,1,21000,57567891,5566236,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+372,departamento,venta,9 de Julio 1352 Piso 7 Dpto D,Alberdi,3,2,,1,42000,57567894,5566239,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+373,departamento,venta,Panamá 2225,Yapeyu,3,2,,0,41000,57567895,5566240,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+377,departamento,venta,Eufrasio Loza 29,General Paz,2,1,,1,28000,57567899,5566244,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+378,departamento,venta,Colon 1155 Piso 3º Dpto D Torre A,Alberdi,3,2,,1,36000,57567900,5566245,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+379,departamento,venta,Eufrasio Loza 47,Yapeyu,2,1,,1,30000,57567901,5566246,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+382,departamento,venta,Colon 1151 Piso 11 Dpto D Torre B,Alberdi,2,1,,1,30000,57567904,5566249,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+383,casa,venta,El Prado 50,Tanti,4,3,,1,59000,57567905,5566250,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+384,casa,venta,Jose Peña 8501,16 de Noviembre,3,2,,0,55000,57567906,5566251,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+386,departamento,venta,Almirante Brown 767 PA Dpto 1 Tira 5,Alberdi,3,2,,1,36000,57567908,5566253,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+387,departamento,alquiler,Chacabuco 375/379 Piso 2º Dpto A,Nueva Cordoba,3,2,"🏢 SALOMÓN INMOBILIARIA ofrece en alquiler un moderno monoambiente ubicado en Bv. Chacabuco 375. Ideal para quienes buscan comodidad, ubicación y estilo 🙌
+
+🔹 Características:
+🏢 Piso 2
+🌞 Ambiente amplio y muy luminoso
+🛁 Baño completo con bañera
+🍳 Cocina equipada con artefacto, calefón, mesada y alacena
+
+📍 Ubicación privilegiada:
+🛍️ A pasos de Patio Olmos
+🌿 Cercano a Buen Pastor
+🏙️ Rodeado de comercios, bares y todo lo que necesitás
+
+💰 Precio: $490.000
+📈 Ajuste trimestral según IPC
+🏷️ Expensas: $75.000
+💸 Impuestos bajos
+
+📲 Consultá requisitos al WhatsApp
+
+🔥 ¡No dejes pasar esta oportunidad! Viví en una de las mejores zonas de Córdoba 🔑",1,490000,57567909,5566254,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,"Opción 1) Una garantía propietaria + un recibo de sueldo superior a $1.000.000
+Opción 2) Cuatro recibos de sueldo superiores a $1.000.000. Pueden ser menos recibos dependiendo los montos.
+No se aceptan garantías compradas ni monotributos, pero si se aceptan jubilaciones",
+388,departamento,venta,Velez Sarsfield 23 Piso 3 Dpto B,Centro,5,4,,1,54000,57567910,5566255,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+389,,,,,,,,0,194000,,,,,
+390,departamento,venta,Olmos 279 Piso 11 Dpto A,Centro,3,2,,1,41000,57567912,5566257,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+391,departamento,venta,Pje Aguilar 1840 Piso 5 Dpto E,Alberdi,2,1,,1,34000,57567913,5566258,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+393,departamento,venta,General Paz 418 Piso 6 Dpto A,Centro,3,2,,0,35000,57567915,5566260,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+394,cochera,alquiler,Colon 1155 Subsuelo Coch 37,Alberdi,,,,0,87000,57567916,5566261,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+395,departamento,venta,Colon 1155 Piso 1 Dpto A Torre A,Alberdi,2,1,,1,31000,57567917,5566262,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+396,departamento,venta,Colon 1155 Piso 1 Dpto B Torre A,Alberdi,5,4,,1,47000,57567918,5566263,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+397,departamento,venta,Brasil 118 Piso 3º Dpto D,Nueva Cordoba,2,1,,1,26000,57567919,5566264,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+398,departamento,venta,W Tejerina 2280 Piso 4 Dpto BTorre II,Alto Alberdi,3,2,,1,33000,57567920,5566265,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+399,,,,,,,,0,144000,,,,,
+400,departamento,venta,Rivadavia 150 Piso 14 Dpto 10,Centro,2,1,,1,30000,57567922,5566267,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+402,departamento,venta,Balcarce 454 Piso 8 Dpto D,Nueva Cordoba,3,2,,1,42000,57567924,5566269,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+403,departamento,venta,Independencia 1120 Piso 5 Dpto D,Nueva Cordoba,5,4,,1,60000,57567925,5566270,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+404,departamento,venta,Crisol 151 Piso 7º Dpto C,Nueva Cordoba,3,2,,1,44000,57567926,5566271,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+405,departamento,venta,Obispo Trejo 1070 Piso 11º Dpto B,Nueva Cordoba,2,1,,1,29000,57567927,5566272,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+406,departamento,venta,Independencia 1470 Piso 2º Dpto A,Nueva Cordoba,2,1,,1,27000,57567928,5056462,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+407,departamento,venta,"Parana 532 Piso 13 Dpto ""A""",Nueva Cordoba,1,1,,0,22000,57567929,5566274,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+408,departamento,venta,Obispo Salguero 474 Piso 12 Dpto A,Nueva Cordoba,2,1,,1,33000,57567930,5566275,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+409,departamento,venta,Ilia 49 Piso 1 Dpto C,Nueva Cordoba,4,3,,1,53000,57567931,5566276,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+411,,,,,,,,0,140000,,,,,
+412,departamento,venta,Duarte Quiros 835 Piso 6 Dpto C,Alberdi,2,1,,1,29000,57567934,5566279,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+413,departamento,venta,San Jose de Calazans 62 Piso 6º Dpto D,centro,2,1,,1,26000,57567935,5566280,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+414,departamento,venta,9 de Julio 721 Piso 6 Dpto B,centro,3,2,,0,41000,57567936,5566281,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+415,,,,,,,,0,151000,,,,,
+416,departamento,venta,9 de Julio 721 Piso 5 Dpto A Torre II,centro,2,1,,1,28000,57567938,5566283,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+417,departamento,venta,9 de Julio 721 Piso 5 Dpto B Torre B,centro,2,1,,1,32000,57567939,5566284,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+420,departamento,venta,San Jose de Calazans 62 Piso 6 Dpto A,alberdi,3,2,,0,36000,57567942,5566287,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+422,departamento,venta,Rondeau 571 Piso 1 Dpto C,Nueva Cordoba,4,3,,1,39000,57567944,5566289,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+423,departamento,venta,27 de Abril 586 Piso 1 Dpto C,centro,1,1,,1,20000,57567945,5566290,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+425,departamento,venta,Obispo Trejo 1180 Piso 3 Dpto F,Nueva Cordoba,2,1,,1,33000,57567947,5566292,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+426,departamento,venta,San Lorenzo 339 Piso 4 Dpto B,Nueva Cordoba,2,1,,1,26000,57567948,5566293,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+430,departamento,venta,Caseros 866 Piso 1 Dpto A,Alberdi,4,3,,1,40000,57567952,5566297,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+431,departamento,venta,San Juan 870 Piso 11 Dpto H,Observatorio,1,1,,1,20000,57567953,5566298,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+432,casa,venta,Octavio Pinto 2685,Escobar,5,3,,1,69000,57567954,5566299,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+434,departamento,venta,Don Bosco 5531 Planta Alta,Mafekin,1,1,,0,22000,57567956,5566301,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+435,local,alquiler,"Villa Mafekin, Córdoba",Villa Mafekin,2,,"SALOMÓN INMOBILIARIA OFRECE EN ALQUILER UN LOCAL COMERCIAL UBICADO EN AV DON BOSCO 5531, BARRIO MAFEKIN. CARACTERÍSTICAS * AMBIENTE AMP...Villa Mafekin",1,300000,56195908,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+436,casa,venta,Potrerillos 451,Mafekin,2,1,,1,25000,57567958,5566303,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+437,departamento,venta,Santa Rosa 878 Piso 3 Dpto A,Alberdi,2,1,,1,28000,57567959,5566304,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+438,departamento,alquiler,Avenida Colón 1800,Alberdi,4,1,"¡Oportunidad de alquiler en Alberdi! Salomón Inmobiliaria te trae este cómodo departamento ubicado sobre Av. Colón al 1800, en una de las ...Alberdi",1,430000,58803269,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+439,cochera,venta,Requinoa 464,Mafekin,,,,1,10000,57567961,5566306,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+440,departamento,venta,Figueroa Alcorta 257 Piso 5 Dpto C,Centro,3,2,,1,40000,57567962,5566307,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+441,departamento,venta,Chacabuco 110 Piso 2 Dpto B,Centro,3,2,,1,38000,57567963,5566308,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+442,departamento,venta,Figueroa Alcorta 257 Piso 3 Dpto C,Centro,1,1,,1,20000,57567964,5566309,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+443,departamento,venta,Velez Sarsfield 958 Piso 4 Dpto C,Nueva Cordoba,4,3,,1,51000,57567965,5566310,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+444,departamento,venta,Chubut 20 Piso 2 Dpto 62,Alberdi,4,3,,1,48000,57567966,5566311,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+445,local,alquiler,"Villa Mafekin, Córdoba",Villa Mafekin,2,,"SALOMON INMOBILIARIA OFRECE EN ALQUILER UN LOCAL COMERCIAL UBICADO EN CALLE REQUINOA 414, BARRIO MAFEKIN. CARACTERISTICAS: * LOCAL COMERC...Villa Mafekin",1,480000,57238921,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+448,departamento,venta,Hipolito Irigoyen 155 Piso 8 Dpto C,Nueva Cordoba,2,1,,0,33000,57567970,5566315,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+449,departamento,venta,Maipu 508 Piso 11 Dpto D,centro,5,4,,0,47000,57567971,5566316,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+450,departamento,venta,Chacabuco 53 Piso 11 Dpto B,centro,2,1,,1,32000,57567972,5566317,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+451,departamento,venta,Chacabuco 53 Piso 12 Dpto B,centro,2,1,,1,26000,57567973,5566318,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+452,departamento,venta,Chacabuco 53 Piso 11 Dpto C,centro,3,2,,1,36000,57567974,5566319,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+454,,,,,,,,0,146000,,,,,
+455,,,,,,,,0,139000,,,,,
+456,departamento,venta,Belgrano 425/435 Piso 8 Dpto D,centro,4,1,,1,43000,57567978,5566323,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+458,casa,venta,Ricardo Pedroni 1226,Escobar,3,2,,1,35000,57567980,5566325,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+459,,,,,,,,0,111000,,,,,
+461,departamento,venta,Belgrano 435 Piso 11 Dpto D,centro,4,1,,0,47000,57567983,5566328,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+462,departamento,venta,Belgrano 435 Piso 12 Dpto D,centro,4,1,,0,50000,57567984,5566329,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+463,,,,,,,,0,173000,,,,,
+465,departamento,venta,Illia 376 Piso 10 Dpto A,Nueva Cordoba,3,1,,0,43000,57567987,5566332,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+466,departamento,venta,Illia 376 Piso 10 Dpto B Barrio,Nueva Cordoba,3,1,,1,36000,57567988,5566333,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+467,departamento,venta,Figueroa Alcorta 355 Piso 5 Dpto B,centro,5,4,,1,46000,57567989,5566334,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+469,departamento,venta,Estrada 127 Piso 3 Dpto C,Nueva Cordoba,2,1,,1,33000,57567991,5566336,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+470,departamento,venta,Chubut 20 Piso 1 Dpto 23,Alberdi,3,2,,1,41000,57567992,5566337,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+473,departamento,venta,General Paz 540 Piso 1 Dpto D,centro,3,2,,0,41000,57567995,5566340,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+474,departamento,venta,Colon 1153 Piso 8 Dpto B Torre C,alberdi,3,2,,1,33000,57567996,5566341,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+475,departamento,venta,Chubut 20 Piso 3 Dpto 93,Alberdi,3,2,,0,35000,57567997,5566342,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+477,cochera,venta,Colon 1155 Subsuelo Coch 46,Alberdi,,,,1,10000,57567999,5566344,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+478,cochera,venta,Obispo Trejo 1070 - Coch Nº 11,Alberdi,,,,1,14000,57568000,5566345,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+479,,,,,,,,0,130000,,,,,
+480,departamento,venta,Colon 1153 Piso 12 Dto B Torre C,Alberdi,5,2,,1,50000,57568002,5566347,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+483,departamento,venta,24 de Septiembre 1487 Piso 3,General Paz,2,1,,1,27000,57568005,5566350,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+484,lotes,venta,MONTECRISTO,MONTECRISTO,0,0,"LOTES en Venta (9 de Julio, Avellaneda, AV Macario - MONTECRISTO) 
+FINANCIACIÓN DE PAGOS!",0,30000,,5104094,,,
+485,departamento,venta,24 de Septiembre 1487 Piso 1 Dpto B,General Paz,3,2,,1,35000,57568007,5566352,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+486,departamento,venta,Brasil 1439 P.B Dpto 1,Maurizzi,3,2,,1,38000,57568008,5566353,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+487,departamento,venta,Brasil 1439 P.B Dpto 2,Maurizzi,3,2,,1,41000,57568009,5566354,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+488,departamento,venta,Brasil 1439 P.B Dpto 3,Maurizzi,2,1,,0,26000,57568010,5566355,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+489,departamento,venta,Brasil 1439 Piso 1 Dpto 4,Maurizzi,2,1,,0,28000,57568011,5566356,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+490,departamento,venta,Brasil 1439 Piso 1 Dpto 5,Maurizzi,2,1,,1,26000,57568012,5566357,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+491,departamento,venta,Brasil 1439 Piso P.A. Dpto 3,Maurizzi,4,3,,0,47000,57568013,5566358,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+492,departamento,alquiler,Brasil 1439,Maurizzi,3,1,"Salomón inmobiliaria ofrece en alquiler un hermoso depto ubicado en calle Brasil 1439 , barrio Maurizzi . Características: - Ambientes am...Maurizzi",1,260000,58179390,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+493,departamento,venta,Buchardo 1736 Piso 1 Dpto.30,Pueyrredon,3,2,,1,41000,57568015,5566360,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+494,casa,venta,Francisco Suarez 4225,Marques de Sobremonte,6,4,,1,86000,57568016,5566361,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+495,departamento,venta,Pueyrredon 75 Piso 3º Dpto. C,Nueva Cordoba,4,3,,1,53000,57568017,5566362,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+496,departamento,venta,Estrada 36/48 Piso 7 Dpto. B,Nueva Cordoba,1,1,,1,21000,57568018,5566363,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+497,departamento,venta,Montevideo 78 Piso 8 Dpto. C,Nueva Cordoba,2,1,,0,33000,57568019,5566364,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+498,departamento,venta,Montevideo 78 Piso 8 Dpto B,Nueva Cordoba,3,2,,1,41000,57568020,5566365,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+499,departamento,venta,Obispo Salguero 655 Piso 2 Dpto. A,Nueva Cordoba,2,1,,1,26000,57568021,5566366,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+500,departamento,venta,Obispo Salguero 648 Piso 12 Dpto. E,Nueva Cordoba,2,1,,1,28000,57568022,5566367,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+501,departamento,venta,Transito C.de Allende 415 Piso 22 Dpto. I,Nueva Cordoba,5,4,,0,48000,57568023,5566368,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+503,departamento,venta,Caseros 386 Piso 4 Dpto B,Centro,3,2,,0,35000,57568025,5566370,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+504,departamento,venta,Avellaneda 272 Piso 9 Dpto. D,Alberdi,5,2,,1,53000,57568026,5566371,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+505,departamento,venta,Colon 259 Piso 1º Local 141,Centro,2,1,,1,27000,57568027,5566372,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+509,departamento,venta,Duarte Quiros 1621 Piso 3 Dpto D,Alto alberdi,3,2,"¡No te lo pierdas! Ideal para vivir cómodo, bien ubicado y con todo al alcance de la mano ",1,44000,57568031,5569363,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+510,departamento,venta,Estrada 144 Piso 3 Dpto C,Nueva Cordoba,1,1,,0,23000,57568032,5566377,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,LINK A REQUISITOS PARA ALQUILAR,
+4801,cochera,venta,Colon Nº 1153 - Cochera 18,Alberdi,,,,1,11000,,,,,
+4802,casa,venta,Uritorco 4124,Ameghino Sur,8,4,"Salomón inmobiliaria ofrece en venta dos casas ubicadas en Calle Uritorco 4124 esquina Fournier , del barrio Ameghino Sur de la ciudad de C...Ameghino Sur",0,76000,58765366,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4803,terreno,venta,Monte Cristo,,,,"Salomón inmobiliaria vende hermosos lotes en Montecristo. Ubicados sobre varias manzanas entre las calles Roque Saenz Peña, Avellaneda, Av ...",0,30000,56978508,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4804,oficina,venta,"Centro, Córdoba",Centro,5,,SALOMON INMOBILIARIA OFRECE EN VENTA UNA HERMOSA OFICINA UBICADA EN ROSARIO DE SANTA FE 231 PISO 8VO. CARACTERISTICAS: * EDIFICIO BOLSA...Centro,0,50000,55613747,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4805,casa,venta,VICENTE ESPINEL 2119,Zumarán,8,3,"SALOMON INMOBILIARIA OFRECE EN VENTA UNA HERMOSA CASA UBICADA EN VICENTE ESPINEL 2119 , BARRIO ANA MARIA ZUMARAN. CARACTERISTICAS: - 3 DO...Zumarán",0,58000,56868486,5513480,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4806,departamento,venta,Independencia,Nueva Córdoba,5,1,"SALOMÓN INMOBILIARIA VENDE HERMOSO DEPARTAMENTO EXTERNO UBICADO EN CALLE INDEPENDENCIA 1470, BARRIO NUEVA CORDOBA! CARACTERISTICAS: * PIS...Nueva Córdoba",0,60000,51792205,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4807,cochera,alquiler,"Alberdi, Córdoba",Alberdi,,,"SALOMON INMOBILIARIA OFRECE UNA COCHERA EN ALQUILER EN CALLE COLON 1155, BARRIO ALBERDI. CARACTERISTICAS * ZONA SUBSUELO * GRAN ESPACIO PA...Alberdi",1,90000,58176842,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4808,cochera,alquiler,"Alberdi, Córdoba",Alberdi,,,"SALOMON INMOBILIARIA OFRECE UNA COCHERA UBICADA EN AV COLON 1155, BARRIO ALBERDI. CARACTERISTICAS: * SUBSUELO * ENTRADA CON PORTON AUTOMA...Alberdi",1,90000,57587844,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4809,casa,venta,SARMIENTO 200,Centro,5,2,OFREZO EN VENTA UN PLAN DE VIVIENDA QUE TENGO CON LA COOPERATIVA HORIZONTE. * AVANZADO AL 64% * LISTAS PARA ADJUDICACION * AL DIA DE HOY S...Centro,0,25000,57016504,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4810,casa,venta,JOSE PEÑA 8501,16 de Noviembre,9,3,"SALOMON INMOBILIARIA OFRECE EN VENTA UNA CASA UBICADA EN CALLE JOSE PEÑA 8501, BARRIO 16 DE NOVIEMBRE. CARACTERISTICAS: * 3 DORMITORIOS...16 de Noviembre",0,55000,56327340,5486180,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4811,casa,venta,ESPOSOS CURIE 2045,Maipú,7,2,SALOMÓN INMOBILIARIA OFRECE EN VENTA UNA HERMOSA CASA MAS UN DEPARTAMENTO UBICADA EN CALLE ESPOSOS CURIE 2045. BARRIO MAIPU SEGUNDA SECCIÓN...Maipú,0,170000,55948440,5467896,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4812,casa,venta,PEDRO DE OLMEDO 1255,Marqués de Sobremonte,10,4,"SALOMÓN INMOBILIARIA OFRECE EN VENTA UNA CASA Y UN DEPARTAMENTO UBICADO EN PEDRO DEL OLMEDO 1255, BARRIO MARQUÉS DE SOBREMONTE! CARACTERÍS...Marqués de Sobremonte",0,80000,55851299,5583587,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4813,departamento,venta,CHUBUT 20,Alberdi,2,,"SALOMON INMOBILIARIA OFRECE EN VENTA UN MONOAMBIENTE UBICADO EN CALLE CHUBUT 20, BARRIO ALBERDI. CARACTERISTICAS: * PISO 1 * AMBIENTE A...Alberdi",0,27000,54880666,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4814,casa,alquiler,Naciones Unidas 843,Parque Vélez Sársfield,8,3,"SALOMÓN INMOBILIARIA OFRECE EN ALQUILER UNA CASA UBICADA EN CALLE NACIONES UNIDAS 843, BARRIO PARQUE VELEZ SARFIELD. CARACTERISTICAS: * C...Parque Vélez Sársfield",1,1100000,58483284,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4815,casa,venta,PARAGUAY,Paso de los Andes,8,3,SALOMON INMOBILIARIA OFRECE EN VENTA UNA CASA UBICADA EN CALLE PARAGUAY 562 BARRIO PASO DE LOS ANDES. CARACTERISTICAS * 3 DORMITORIOS C...Paso de los Andes,0,180000,55763214,,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4816,casa,venta,Av. Malvinas Argentinas 450,San Antonio de Arredondo,8,4,SALOMON INMOBILIARIA PRESENTA UNA OPORTUNIDAD ÚNICA !!! Casa + Departamento sobre la orilla del río San Antonio de Arredondo – Av Malvinas...,0,400000,57957592,5565873,https://www.salomoninmo.com.ar/base.php?q=buscar&operacion=0,,
+4817,conjunto de inmuebles,venta,Belgrano 1535,Guemes,,,"INMUEBLE/LOTES EN VENTA!!! EXCELENTE UBICACION PARA UN BUEN EMPRENDIMIENTO COMERCIAL/INMOBILIARIO, DOBLE INGRESO",,180000,,5040498,https://clasificados.lavoz.com.ar/avisos/terrenos-lotes/5040498/excelente-oportunidad,,
+4818,departamento,venta,Pedro Zanni 765,Alberdi,,2,"Para más información o coordinar una visita, contáctanos por WhatsApp. ¡No dudes en consultar!",,60000,,5571649,https://clasificados.lavoz.com.ar/avisos/inmuebles/departamento/5571649/hermoso-depto-de-2d-con-patio-en-alberdi-oportunidad-unica,,
+4819,casa,venta,Av Velez Sarfield 674,Nueva Córdoba,,4,OPORTUNIDAD PARA TU INVERSIÓN EN LA MEJOR ZONA DE CÓRDOBA CAPITAL!!!,,545000,,5263667,https://clasificados.lavoz.com.ar/avisos/inmuebles/casa/5263667/oportunidad-para-tu-inversion-en-mejor-zona-de-cordoba-capital,,
+4820,departamento,venta,Av Velez Sarfield 152,Centro,,3,PARA MAS INFORMACIÓN AL WHATSAPP . NO TE LO PIERDAS!!!,,140000,,5236312,https://clasificados.lavoz.com.ar/avisos/inmuebles/departamento/5236312/precioso-depto-3d-con-balcon-en-pleno-centro,,
+4821,terreno,venta,Publica 10,Comarca de Allende,,,HERMOSO LOTE APTO DUPLEX EN BARRIO NORTE 1 ! IMPERDIBLE,,18000,,5531627,https://clasificados.lavoz.com.ar/avisos/inmuebles/terreno/5531627/hermoso-lote-apto-duplex-en-barrio-norte-1-imperdible,,
+4822,terreno,venta,Rumiñahui 8059,Arguello,,,PARA MAS INFORMACIÓN AL WHATSAPP . NO TE LO PIERDAS!!!,,12000,,5384227,https://clasificados.lavoz.com.ar/avisos/inmuebles/terreno/5384227/lote-en-oportunidad-en-barrio-arguello,,
+4823,complejo,venta,1 de Mayo,Villa Carlos Paz,,,A UNA CUADRA DEL RIO!!!!,,250000,,5384246,https://clasificados.lavoz.com.ar/avisos/inmuebles/departamento/5384246/complejo-en-venta-en-villa-carlos-paz-a-una-cuadra-del-rio,,

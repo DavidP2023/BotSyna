@@ -1,0 +1,12 @@
+{
+  "supabase": {
+    "url": "https://xcfprzggpznnzdqdfuaa.supabase.co",
+    "anon_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhjZnByemdncHpubnpkcWRmdWFhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ2NTE3ODksImV4cCI6MjA5MDIyNzc4OX0.aXP9SLBI6_kYVnb0D2QeK1F3h3AkYKIHj8fH1rppyd0"
+  },
+  "tables": {
+    "properties": "propiedades_v2",
+    "visits": "visitas",
+    "tenants": "inquilinos",
+    "neighborhoods": "barrios"
+  }
+}

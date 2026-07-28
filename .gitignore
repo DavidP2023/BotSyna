@@ -1,0 +1,3 @@
+# Config con secretos reales (service_role_key) - se edita local y se sube a AWS manualmente
+S3/config.json
+S3/tenant_config.json
