@@ -6,8 +6,6 @@ const links = [
   { to: '/propiedades', label: 'Propiedades' },
   { to: '/visitas', label: 'Visitas' },
   { to: '/inquilinos', label: 'Inquilinos' },
-  { to: '/configuracion', label: 'Configuración' },
-  { to: '/usuarios', label: 'Usuarios' },
 ];
 
 export default function DashboardLayout() {
