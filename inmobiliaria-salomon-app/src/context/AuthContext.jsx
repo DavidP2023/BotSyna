@@ -10,8 +10,8 @@ async function fetchProfile(userId) {
     .eq('id', userId)
     .maybeSingle();
 
-  // La tabla profiles todavía puede no existir (Paso 6 pendiente) o el perfil
-  // aún no fue creado para este usuario: no tratamos esto como error fatal.
+  // Si la fila del perfil no existe todavía para este usuario, no tratamos
+  // esto como error fatal.
   if (error) return null;
   return data;
 }
