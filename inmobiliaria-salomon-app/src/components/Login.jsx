@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 import { supabase } from '../lib/supabaseClient.js';
 
 export default function Login({ onSuccess }) {
@@ -81,6 +82,12 @@ export default function Login({ onSuccess }) {
             {loading ? 'Ingresando…' : 'Ingresar'}
           </button>
         </form>
+
+        <p className="text-center mt-6">
+          <Link to="/forgot-password" className="text-white/40 text-sm hover:text-[#c4a36f] transition-colors">
+            ¿Olvidaste tu contraseña?
+          </Link>
+        </p>
       </div>
     </div>
   );

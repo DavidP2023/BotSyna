@@ -3,6 +3,8 @@ import { useAuth } from './context/AuthContext.jsx';
 import ProtectedRoute from './components/ProtectedRoute.jsx';
 import DashboardLayout from './components/layout/DashboardLayout.jsx';
 import Login from './components/Login.jsx';
+import ForgotPassword from './components/ForgotPassword.jsx';
+import ResetPassword from './components/ResetPassword.jsx';
 import Home from './pages/Home.jsx';
 import Configuracion from './pages/Configuracion.jsx';
 import Usuarios from './pages/Usuarios.jsx';
@@ -38,6 +40,8 @@ export default function App() {
   return (
     <Routes>
       <Route path="/login" element={<LoginRoute />} />
+      <Route path="/forgot-password" element={<ForgotPassword />} />
+      <Route path="/reset-password" element={<ResetPassword />} />
 
       <Route element={<ProtectedRoute />}>
         <Route element={<DashboardLayout />}>
