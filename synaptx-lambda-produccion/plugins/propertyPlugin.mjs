@@ -729,6 +729,21 @@ export class PropertyPlugin extends BasePlugin {
     // evita perder propiedadSeleccionadaId por una re-ejecución espuria de PASO 6
     // (ej. caché de búsqueda invalidado por un refresco del prompt en otro punto).
     const bookingEnCursoSinCambioDeFiltro = Boolean(md.propiedadSeleccionadaId) && !filtroCambiado && !pideMas;
+
+    // propiedades_v2.operacion tiene valores alquiler/venta/NULL (registros viejos sin
+    // cargar). Sin operacionFinal, _queryAll no arma el filtro `operacion` y devuelve
+    // las tres variantes mezcladas. Si hay intención de búsqueda (tipología/barrio/
+    // dirección) pero no se sabe si es alquiler o venta, se pide aclaración y NO se
+    // consulta la BD todavía.
+    const haySolicitudBusqueda = Boolean(tipologiaFinal || barrioFinal || direccionFinal);
+    const necesitaAclararOperacion = haySolicitudBusqueda && !operacionFinal && !pidiendoMaterialDeActiva && !bookingEnCursoSinCambioDeFiltro;
+
+    if (necesitaAclararOperacion && history[0]?.role === 'system') {
+      history[0].content += '\nINSTRUCCIÓN CRÍTICA: El usuario busca propiedades pero no especificó si es alquiler o venta. Preguntar cuál de las dos opciones busca antes de mostrar propiedades. NO consultar la base de datos todavía.';
+      history = _trim(history);
+      return { history: [...history, { role: 'user', content: message }], ctx: applyPropertyPluginMetadata(baseCtx, md) };
+    }
+
     if ((operacionFinal || tipologiaFinal) && !pidiendoMaterialDeActiva && !bookingEnCursoSinCambioDeFiltro) {
       const precioInd = (precioMinFinal || presupuestoFinal || precioMaxFinal) ? 'range' : dormitoriosOpFinal;
       const claveActual = `BUSQUEDA:${operacionFinal}:${tipologiaFinal}:${barrioFinal||'todos'}:${direccionFinal||'todas'}:${ambientesFinal||''}:${dormitoriosFinal||''}:${precioInd}:${aptoBancoFinal||''}:${precioMinFinal||''}:${(precioMaxFinal||presupuestoFinal)||''}:${offsetFinal}`;
